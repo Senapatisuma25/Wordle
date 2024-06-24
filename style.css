@@ -9,7 +9,9 @@
 }
 body{
     width:100%;
-    background-color:rgb(57, 57, 57);
+    background-image: url(b3.png) ;
+    background-repeat: none;
+    background-size: cover;
     color: whitesmoke;
     height:100vh;
     display: flex;
